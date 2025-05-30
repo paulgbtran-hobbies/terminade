@@ -4,4 +4,7 @@ Screen {
 
 #startmsg {
     text-align: center;
-}   
+    align-horizontal: center;
+    height: auto;
+    width: auto;
+}
