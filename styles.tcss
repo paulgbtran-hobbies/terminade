@@ -2,6 +2,6 @@ Screen {
     align: center middle;
 }
 
-.startmsg {
+#startmsg {
     text-align: center;
-}
+}   
